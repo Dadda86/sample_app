@@ -4,5 +4,8 @@ class PagesController < ApplicationController
 
   def conctact
   end
+  
+  def about
+  end  
 
 end
