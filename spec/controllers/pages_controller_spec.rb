@@ -8,10 +8,6 @@ describe PagesController do
       #@base_title= Ruby on Rails Tutorial Sample App
       #
   end
-  
-  
-  
-  
   describe "GET 'home'" do
     it "should be successful" do
       get 'home'
